@@ -1,0 +1,9 @@
+opencv-python
+numpy
+imutils
+pillow
+matplotlib
+scipy
+requests
+tqdm
+pyyaml

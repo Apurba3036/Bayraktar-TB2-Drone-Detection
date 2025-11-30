@@ -1,0 +1,50 @@
+# ---- Virtual Environment ----
+venv/
+.env/
+ENV/
+env/
+
+# ---- Python Cache ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Model Files ----
+*.weights
+*.pt
+*.onnx
+*.engine
+*.h5
+
+# ---- Video Files ----
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# ---- Images (if needed)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# ---- Config / Checkpoints ----
+*.cfg
+*.yaml
+*.yml
+
+# ---- Logs ----
+*.log
+
+# ---- IDE Files ----
+.vscode/
+.idea/
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Build / Output ----
+dist/
+build/
