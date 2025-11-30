@@ -1,6 +1,7 @@
 # 🇧🇩 Bayraktar TB2 Drone Detection
 
 A real-time UAV detection system using **Python**, **OpenCV**, and a **YOLO-based custom model**.
+<img width="1010" height="715" alt="Screenshot 2025-11-30 153729" src="https://github.com/user-attachments/assets/59c7b02d-cb1f-44f9-9611-3e664d45f885" />
 
 ---
 
